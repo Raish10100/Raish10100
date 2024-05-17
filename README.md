@@ -72,6 +72,6 @@
 ----
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=raish10100&show_icons=true&locale=en&layout=compact" alt="raish10100" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raish10100&show_icons=true&locale=en" alt="raish10100" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raish10100&" alt="raish10100" /></p>
