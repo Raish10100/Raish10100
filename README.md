@@ -2,10 +2,8 @@
   <img src="https://res.cloudinary.com/deodsnio3/image/upload/v1717048089/banner3_ra1rnm.png" alt="MasterHead" width="800" height="200">
 </p>
 
-<h1 align="center">Hi there! 👋, I'm Raish</h1>
-<p align="center" >
-    I'm a Full Stack Developer
-</p>
+<h1 align="center">Hi there! 👋, I'm a Full Stack Developer</h1>
+
 
 <br/>
 
