@@ -1,4 +1,4 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Raish Vadaviya</h1>
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Raish</h1>
 
 <div align="center">
   <img src="https://res.cloudinary.com/deodsnio3/image/upload/v1717048089/banner3_ra1rnm.png" >
@@ -18,6 +18,7 @@
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what i have learned :tada:
 
+- 📫 How to reach me: [raishgma101001@gmail.com](mailto:raishgma101001@gmail.com) | [LinkedIn](https://www.linkedin.com/in/raish-vadaviya-439213289/)
 
 
 ## 🛠️ Technologies and Tools I use:
